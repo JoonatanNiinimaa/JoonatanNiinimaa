@@ -1,4 +1,4 @@
-# :finland: Joonatan Niinimaa
+# :desktop_computer: Joonatan Niinimaa
 
 **`Future programmer `**
 
