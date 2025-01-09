@@ -22,7 +22,6 @@ To ensure seamless data storage and retrieval, all user data is securely stored 
 ![loginpage](https://github.com/user-attachments/assets/e5e08311-27d1-419c-8234-cbc1f9087fe4)
 ![main](https://github.com/user-attachments/assets/a188ba7a-e160-4721-b975-9008b01fddc5)
 ![history](https://github.com/user-attachments/assets/f8e23d09-dbfd-4bee-834d-a7ccd2420bce)
-![workout2](https://github.com/user-attachments/assets/b0ee0d10-1ace-45f0-ac49-46764a9110c5)
 
 ### Product Design and Impementation
 
