@@ -15,7 +15,9 @@ The site shows movie reviews that users can write themselves if like or dislike 
 
 ### Mobile Application Project, Healthapp
 
-In this project we made a React Native app that user can use to track their workouts and track their calories.
+For this project, we developed a React Native application called HealthApp. 
+The app allows users to efficiently track their workouts and monitor their calorie intake. 
+To ensure seamless data storage and retrieval, all user data is securely stored in a Firestore database.
 
 ![loginpage](https://github.com/user-attachments/assets/e5e08311-27d1-419c-8234-cbc1f9087fe4)
 ![main](https://github.com/user-attachments/assets/a188ba7a-e160-4721-b975-9008b01fddc5)
@@ -24,7 +26,8 @@ In this project we made a React Native app that user can use to track their work
 
 ### Product Design and Impementation
 
-For this project course we could choose what to make, so we chose to do 2D game made with Unity.
-The game is meant to be 2D roguelike game with procedurally generated levels with random weapons and hats for player to pickup.
+For this project course, we had the freedom to choose our topic, and we decided to create a 2D roguelike game using Unity.
+The game features procedurally generated levels, offering a unique experience each time. 
+Players can collect random weapons and hats to aid them in battling enemies.
 ![game1](https://github.com/user-attachments/assets/ac950ee4-5e49-4bf9-946f-3c55407f40c3)
 
