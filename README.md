@@ -1,8 +1,7 @@
 # :desktop_computer: Joonatan Niinimaa
 
-**`Future programmer `**
 
-I am currently studying information and communication technologies at Oulu University of Applied Sciences.
+I graduated from Oulu University of Applied Sciences as an information and communications engineer in June 2026.
 
 School projects I've been part of:
 
